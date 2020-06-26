@@ -1,0 +1,2 @@
+# azserver.io
+gitserver.io
